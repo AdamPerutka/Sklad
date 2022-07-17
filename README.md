@@ -10,5 +10,5 @@
 #     "-t item_name" filter podla nazvu tovaru
 #     "-p max_price" vsetky tovary pod max_price sa neukazu
 # 4 - vystup v cmd
-#     " " tovaro-centricky vypis (tovar_meno \n vsetky sklady\n)
-#     "-w" sklado-centricky vypis (sklad_meno \n vsekty itemy ktore tam patria \n)
+     " " tovaro-centricky vypis (tovar_meno \n vsetky sklady\n)
+     "-w" sklado-centricky vypis (sklad_meno \n vsekty itemy ktore tam patria \n)
